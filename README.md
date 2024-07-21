@@ -23,9 +23,11 @@ Sample Input
 
     ABCDCDC
     CDC
+    
 Sample Output
 
     2
+    
 Concept
 
 Some string processing examples, such as these, might be useful.
@@ -38,9 +40,11 @@ To traverse through the length of a string, use a for loop:
 
         for i in range(0, len(s)):
             print (s[i])
+            
 A range function is used to loop over some length:
 
         range (0, 5)
+        
 Here, the range loops over 0 to 4.5  is excluded.
 
 # HackerRank-Finding-the-percentage
@@ -96,7 +100,7 @@ Sample Input 1
 Sample Output 1
 
         26.50
-# HackerRank-write-a-function
+# HackerRank write a function
 HackerRank write a function
 
 Task
