@@ -130,7 +130,7 @@ Sample Output 0
 Explanation 0
 
 1990 is not a multiple of 4 hence it's not a leap year.
-# HackerRank-If-Else
+# HackerRank If Else
 If Else
 
 Task
