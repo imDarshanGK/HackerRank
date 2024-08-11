@@ -47,7 +47,7 @@ A range function is used to loop over some length:
         
 Here, the range loops over 0 to 4.5  is excluded.
 
-# HackerRank-Finding-the-percentage
+# HackerRank Finding the percentage
 Finding the percentage 
 
 The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
