@@ -171,8 +171,9 @@ Sample Input 1
 Sample Output 1
 
      Not Weird
+     
 Explanation 1
 
-n=24
+    n=24
 
- n>20 and nis even, so it is not weird.
+    n>20 and nis even, so it is not weird.
