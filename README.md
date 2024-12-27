@@ -8,7 +8,7 @@ This repository contains my solutions to various coding challenges and problems 
 - Organized by categories (e.g., Algorithms, Data Structures).
 - Code comments explaining key concepts and steps.
 
-# HackerRank Find a string
+# Find a string
 ```
 Find a string.
 
@@ -100,7 +100,7 @@ Sample Output 1
 
 # write a function
 ```
-HackerRank write a function
+write a function
 Task
 
 Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
