@@ -49,7 +49,7 @@ A range function is used to loop over some length:
 Here, the range loops over 0 to 4.5  is excluded.
 ```
 
-# HackerRank Finding the percentage
+# Finding the percentage
 ```
 Finding the percentage 
 
@@ -98,7 +98,7 @@ Sample Output 1
         26.50
 ```
 
-# HackerRank write a function
+# write a function
 ```
 HackerRank write a function
 Task
@@ -125,7 +125,7 @@ Explanation 0
 1990 is not a multiple of 4 hence it's not a leap year.
 ```
 
-# HackerRank If Else
+# If Else
 ```
 If Else
 Task
