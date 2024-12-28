@@ -8,7 +8,7 @@ This repository contains my solutions to various coding challenges and problems 
 - Organized by categories (e.g., Algorithms, Data Structures).
 - Code comments explaining key concepts and steps.
 
-# HackerRank Find a string
+# Find a string
 ```
 Find a string.
 
@@ -49,7 +49,7 @@ A range function is used to loop over some length:
 Here, the range loops over 0 to 4.5  is excluded.
 ```
 
-# HackerRank Finding the percentage
+# Finding the percentage
 ```
 Finding the percentage 
 
@@ -98,9 +98,9 @@ Sample Output 1
         26.50
 ```
 
-# HackerRank write a function
+# write a function
 ```
-HackerRank write a function
+write a function
 Task
 
 Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
@@ -125,7 +125,7 @@ Explanation 0
 1990 is not a multiple of 4 hence it's not a leap year.
 ```
 
-# HackerRank If Else
+# If Else
 ```
 If Else
 Task
